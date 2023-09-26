@@ -1810,17 +1810,3 @@ a {
 .w3-hover-border-pale-blue:hover {
   border-color: #e7ffff !important;
 }
-
-
-
-/* .imd {
-  width: 40%;
-  transition-property:  height;
-  transition-duration: 3s;
-  transition-timing-function: linear;
-  transition-delay: 2s;
-}
-
-.imd:hover:hover {
-  width: 600px;
-} */
